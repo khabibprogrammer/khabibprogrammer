@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Load" align="right" width="350px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khabibprogrammer" alt="khabibprogrammer" /></a> </p>
+<p align="left" width="120px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khabibprogrammer" alt="khabibprogrammer" /></a> </p>
 
 - 🌱 I’m currently learning **Django,Rest_Framework**
 
